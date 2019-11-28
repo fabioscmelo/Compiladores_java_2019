@@ -1,4 +1,4 @@
-# Compiladores - Trabalho
+# Compilador
 Trabalho de compiladores PUC-MG desenvolvido em Java.
 
 
