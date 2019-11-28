@@ -1,9 +1,12 @@
 # Compilador
 Trabalho de compiladores PUC-MG desenvolvido em Java.
+Grupo:
 
+[Fabio Melo](https://github.com/fabioscmelo)
 
-Parte 1 (Analisador Léxico e Sintático) – 10 Pontos.
-Nota dessa Parte: 10 Pontos.
+[Gustavo Lescowicz Kotarsky](https://github.com/gustavokotarsky)
 
-Parte 2 (Analisador Semântico e Geração de código) – 20 Pontos.
-Nota dessa Parte: 20 Pontos.
+|   Parte|   Valor|  Nota|
+|-|-|-|
+|   Analise Léxica/Sintática| 10| 10|
+|   Analise Semântica|  20| 20|
