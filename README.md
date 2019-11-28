@@ -11,3 +11,6 @@ Grupo:
 |-|-|-|
 |   Analise Léxica/Sintática| 10| 10|
 |   Analise Semântica|  20| 20|
+
+
+Automato:
