@@ -1,7 +1,6 @@
 /*
 Fabio Silva Campos Melo
 Gustavo Lescowicz Kotarsky
-Lucas Dutra Ponce de Leon
 */
 
 import java.io.BufferedReader;
